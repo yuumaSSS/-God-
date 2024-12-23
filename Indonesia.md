@@ -4,7 +4,7 @@ Pertama, **aku ingin kalian semua hilangkan segala bias untuk agama kalian saat 
 
 Kedua, **aku ingin peringatkan bahwa semua ketikan disini bukan untuk propaganda ataupun mencoba merusak dan merobek akal sehat kalian, semuanya hanya sebagai bahan referensi saja dan pilihan kalian ingin eksekusi atau tidak.**
 
-Ketiga, **semua ketikan berisi penjelasan logika sederhana yang siapapun bahkan dengan pendidikan yang rendah dapat memahaminya.**
+Ketiga, **semua ketikan disini berisi penjelasan logika sederhana yang siapapun bahkan dengan pendidikan yang rendah dapat memahaminya.**
 
 ## Daftar Isi
 
