@@ -1,6 +1,6 @@
 # "Tuhan"
 
-Pertama-tama, **aku ingin kalian semua hilangkan segala bias untuk agama kalian saat ini. Jika kalian merupakan agnostik atau atheis, maka gunakanlah logika kalian dengan benar.**
+Pertama, **aku ingin kalian semua hilangkan segala bias untuk agama kalian saat ini. Jika kalian merupakan agnostik atau atheis, maka gunakanlah logika kalian dengan benar.**
 
 Kedua, **aku ingin peringatkan bahwa semua ketikan disini bukan untuk propaganda ataupun mencoba merusak dan merobek akal sehat kalian, semuanya hanya sebagai bahan referensi saja dan pilihan kalian ingin eksekusi atau tidak.**
 
