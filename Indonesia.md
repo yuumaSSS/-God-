@@ -8,14 +8,24 @@ Ketiga, **semua ketikan disini berisi penjelasan logika sederhana yang siapapun 
 
 ## Daftar Isi
 
-1. **Diri sendri** line 9
-2. **Orang lain** line
-3. **Lingkungan** line
-4. **Kehidupan** line
-5. **Pencipta** line
+1. **Diri sendri** *line 9*
+2. **Orang lain** *line*
+3. **Lingkungan** *line*
+4. **Kehidupan** *line*
+5. **Pencipta** *line*
 
 ## Diri Sendiri
 
 "Manusia" adalah sebutan seorang makhluk seperti kita.
+
+Setiap manusia memiliki akal masing-masing yang mendukung kegiatan yang ia lakukan.
+
+Bagiku, IQ bukanlah penentu kecerdasan seseorang.
+
+Memang benar bahwa IQ dapat menjadi acuan seberapa cepat ia dapat memahami hal-hal yang belum ia pelajari.
+
+Akan tetapi, logika dapat berkembang melalui ilmu yang diresap.
+
+Di dunia ini, tidak ada hal yang setara dalam kemampuan orang dalam berfikir.
 
 fin...
